@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang=“en”>
+<head>
+<meta charset="utf-8">
+<title>My Web Developer Portfolio</title>
+</head>
+<body>
+<header>
+<nav>
+<a href="#Home">Home</a>
+<a href="#About">About</a>
+<a href="#Projects">Portfolio</a>
+<a href="#Skills & Certifications">Skills & Certifications</a>
+<a href="#Gallery">Gallery</a>
+<a href="#Reviews">Reviews</a>
+<a href="#Contact Me">Contact Me</a>
+</nav>
+</header>
+<main>
+<h1>A small introducton..</h1>
+</main>
+<p>My first project is the domino effect of where I am today</p>
+</body>
+</html>
