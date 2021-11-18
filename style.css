@@ -3,9 +3,9 @@
 /* Applys for undefined screen sizes such as screen width of 481px to 599px */
 h1 {
     color:#C8FDFF;
-    border: 2px red solid;
-    margin: 100px;
-    padding: 100px;
+    border: 20px black solid;
+    margin: 50px;
+    padding: 60px;
 }
 
 body {
@@ -37,8 +37,8 @@ body {
         color: #000;
     }
     .padding{
-        padding: 1px;
-        border-width: 1px;
+        padding: 50px;
+        border-width: 10px;
         border-style: solid;
         border-color: black;
     }
