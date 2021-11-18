@@ -3,7 +3,7 @@
 /* Applys for undefined screen sizes such as screen width of 481px to 599px */
 h1 {
     color:#C8FDFF;
-    border: 20px black solid;
+    border: 20px white solid;
     border-width: 7px;
     margin: 50px;
     padding: 20px;
@@ -41,7 +41,7 @@ body {
         padding: 15px;
         border-width: 7px;
         border-style: solid;
-        border-color: black;
+        border-color: white;
         font-size: 15px
     }
 }
