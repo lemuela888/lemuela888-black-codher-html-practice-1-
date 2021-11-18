@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital@0;1&family=M+PLUS+Code+Latin:wght@100&family=Nothing+You+Could+Do&family=Teko:wght@300&display=swap');
+/* Default style */
+/* Applys for undefined screen sizes such as screen width of 481px to 599px */
+h1 {
+    color:#C8FDFF;
+    border: 2px red solid;
+    margin: 100px;
+    padding: 100px;
+}
+
+body {
+  font-family: 'Nothing You Could Do', cursive;
+  background: #000000;
+  color: white;
+  text-align: center;
+}
+
+/* For Mobiles */
+@media all and (max-width: 480px) {
+h1,h2,h3,h4,h5,h6{
+    font-size: 20px;
+}
+body {
+    font-size: 14px;
+    background-color:#3D3B8E;
+    }
+}
+
+/* For Tablet/Laptop/Desktops */
+@media (min-width: 600px) {
+    h1,h2,h3,h4,h5,h6{
+        font-size: 50px;  
+    }
+    body {
+        font-size: 26px;
+        background-color: #b0e298;
+        color: #000;
+    }
+    .padding{
+        padding: 1px;
+        border-width: 1px;
+        border-style: solid;
+        border-color: black;
+    }
+}
